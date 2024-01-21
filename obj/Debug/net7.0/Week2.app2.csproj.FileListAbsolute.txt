@@ -1,0 +1,15 @@
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\bin\Debug\net7.0\Week2.app2.exe
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\bin\Debug\net7.0\Week2.app2.deps.json
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\bin\Debug\net7.0\Week2.app2.runtimeconfig.json
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\bin\Debug\net7.0\Week2.app2.dll
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\bin\Debug\net7.0\Week2.app2.pdb
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.csproj.AssemblyReference.cache
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.AssemblyInfoInputs.cache
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.AssemblyInfo.cs
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.csproj.CoreCompileInputs.cache
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.dll
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\refint\Week2.app2.dll
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.pdb
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\Week2.app2.genruntimeconfig.cache
+C:\Users\nijatjs\Desktop\PB8501\Week2.app2\obj\Debug\net7.0\ref\Week2.app2.dll
