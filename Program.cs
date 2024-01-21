@@ -34,6 +34,10 @@
             {
                 Console.WriteLine("universitet + codeacademy");
             }
+            else
+            {
+                Console.WriteLine("not correct day");
+            }
         }
     }
 }
